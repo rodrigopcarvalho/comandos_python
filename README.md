@@ -1,2 +1,2 @@
-# comando_python
+# comandos_python
 Repositorio com os comandos de Python
